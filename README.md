@@ -10,7 +10,7 @@ A partial clone of [enterprise.accredian.com](https://enterprise.accredian.com/)
 | | |
 |---|---|
 | **Live Demo** | `https://your-project.vercel.app` _(replace after deploy)_ |
-| **GitHub Repo** | `https://github.com/your-username/accredian-enterprise` |
+| **GitHub Repo** | `https://github.com/SSB-Coder/Assignment-Accredian.git` |
 
 ---
 
